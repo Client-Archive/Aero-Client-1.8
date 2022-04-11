@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/101321755/162806243-43538bd0-acfa-4743-80d5-e25dce936ac3.png)
+
 Aero-Client-1.8!
 
 The unreleased custom Aero Client 1.8.9, intended to wipe out the reskin portion of the client and become the new face of Aero Client.
