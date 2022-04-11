@@ -9,3 +9,5 @@ This repository however, contains the non-reskin version of the client, which wa
 
 ### What is Client Archive? 
 We are an org meant for people to enjoy old unreleased clients which are not for the public or just been long gone.
+
+Note that this is just the src.
